@@ -4,6 +4,6 @@
 - node app
 
 
-- API: /send
+- Entry point: /send
 - Parameter: nohp, pesan
 - Method: GET & POST
